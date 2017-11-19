@@ -33,3 +33,9 @@
 [submodule "components/spiffs/spiffs"]
 	path = components/spiffs/spiffs
 	url = https://github.com/pellepl/spiffs.git
+[submodule "components/espmqtt"]
+	path = components/espmqtt
+	url = https://github.com/tuanpmt/espmqtt.git
+[submodule "examples/esp32-mqtt"]
+	path = examples/esp32-mqtt
+	url = https://github.com/tuanpmt/esp32-mqtt.git
